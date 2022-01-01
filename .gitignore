@@ -24,3 +24,5 @@ yarn-error.log*
 
 #hardhat config
 hardhat.config.js
+/graph-email-contract/node_modules/
+/graph-email-ui/node_modules/
